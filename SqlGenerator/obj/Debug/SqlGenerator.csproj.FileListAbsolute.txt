@@ -1,0 +1,6 @@
+c:\users\garnaudovski\documents\visual studio 2015\Projects\SqlGenerator\SqlGenerator\bin\Debug\SqlGenerator.exe.config
+C:\Users\garnaudovski\Documents\Visual Studio 2015\Projects\SqlGenerator\SqlGenerator\bin\Debug\SqlGenerator.exe
+C:\Users\garnaudovski\Documents\Visual Studio 2015\Projects\SqlGenerator\SqlGenerator\bin\Debug\SqlGenerator.pdb
+C:\Users\garnaudovski\Documents\Visual Studio 2015\Projects\SqlGenerator\SqlGenerator\obj\Debug\SqlGenerator.csprojResolveAssemblyReference.cache
+C:\Users\garnaudovski\Documents\Visual Studio 2015\Projects\SqlGenerator\SqlGenerator\obj\Debug\SqlGenerator.exe
+C:\Users\garnaudovski\Documents\Visual Studio 2015\Projects\SqlGenerator\SqlGenerator\obj\Debug\SqlGenerator.pdb
